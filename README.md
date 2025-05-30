@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif" alt="kavishan nipun github" >
 <h1 align="center">Hi 👋, I'm Kavishan Nipun</h1>
-<h3 align="center">Passionate full stack developer & AI enthusiast... Crafting code to shape the future. Let's build something incredible together!</h3>
+<h3 align="center">Passionate full stack developer & AI enthusiast. Crafting code to shape the future. Let's build something incredible together!</h3>
 
 <img align="right" alt="github" width="150" src="https://gist.githubusercontent.com/theAdityaNVS/f5b585d1082da2dffffea32434f37956/raw/7f9552d0a179b4f84059259fa878199e369b069c/GitHub-logo.gif" >
 
