@@ -12,7 +12,7 @@
 }
 
 ```
-> Socials         :: [GitHub](https://github.com/kavishannip) | [LinkedIn](https://www.linkedin.com/in/kavishan-nipun-876930222/) | [Facebook](https://www.facebook.com/nipunmaxx.kavishan.3) | [Instagram](https://www.instagram.com/kavishan.nipun/)
+> Socials         :: [LinkedIn](https://www.linkedin.com/in/kavishan-nipun-876930222/) | [Facebook](https://www.facebook.com/nipunmaxx.kavishan.3) | [Instagram](https://www.instagram.com/kavishan.nipun/)
 
 ## GitHub Stats
 
