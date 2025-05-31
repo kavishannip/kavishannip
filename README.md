@@ -1,29 +1,33 @@
-<img src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif" alt="kavishan nipun github" >
-<h1 align="center">Hi 👋, I'm Kavishan Nipun</h1>
-<h3 align="center">Passionate full stack developer & AI enthusiast. Crafting code to shape the future. Let's build something incredible together!</h3>
+```
+{
+  "KavishanNipun": {
+    "Languages": "JavaScript | Python | C | Java",
+    "Frameworks": "React | Next.js | Node.js | Express.js | TailwindCSS | Flutter | TensorFlow | scikit-learn",
+    "Dev Tools": "VS Code | Docker | Git | GitHub | Postman | MongoDB | Firebase",
+    "UI Vibes": "Figma | Adobe XD | Photoshop | After Effects | Illustrator",
+    "Education": "BSc (Hons) in Software Engineering @ SLTC Research University",
+    "Learning": "MERN Stack & AI",
+    "Contact": "kavishannipun2001@gmail.com"
+  }
+}
 
-<img align="right" alt="github" width="150" src="https://gist.githubusercontent.com/theAdityaNVS/f5b585d1082da2dffffea32434f37956/raw/7f9552d0a179b4f84059259fa878199e369b069c/GitHub-logo.gif" >
+```
+> Socials         :: [GitHub](https://github.com/kavishannip) | [LinkedIn](https://www.linkedin.com/in/kavishan-nipun-876930222/) | [Facebook](https://www.facebook.com/nipunmaxx.kavishan.3) | [Instagram](https://www.instagram.com/kavishan.nipun/)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kavishannip&label=Profile%20views&color=0e75b6&style=flat" alt="kavishannip" /> </p>
+## GitHub Stats
 
-- 🔭 Im currently an undergraduate Software Engineering student at **SLTC Research University.**
-
-- 🌱 I’m currently learning **MERN stack**
-
-- 📫 How to reach me **kavishannipun2001@gmail.com**
-
-
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat-square&logo=WordPress&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=flat-square&logo=three.js&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=flat-square&logo=insomnia&logoColor=5849BE) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=flat-square&logo=mui&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat-square&logo=nodemon&logoColor=%BBDEAD) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat-square&logo=firebase&logoColor=ffcd34) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat-square&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat-square&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat-square&logo=adobe%20illustrator&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=flat-square&logo=adobeindesign&logoColor=FF3366) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat-square&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat-square&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat-square&logo=Adobe%20XD&logoColor=#FF61F6) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat-square&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kavishannip&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=kavishannip&theme=dark&hide_border=true)<br/>
-
-
----
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=kavishannip&show_icons=true&theme=gotham" />
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=kavishannip&theme=gotham" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="left">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavishannip&layout=compact&theme=gotham" />
+    </td>
+  </tr>
+</table>
