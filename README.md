@@ -2,7 +2,7 @@
 {
   "KavishanNipun": {
     "Languages": "JavaScript | Python | C | Java | Dart",
-    "Frameworks": "React | Next.js | Node.js | Express.js | TailwindCSS | Flutter | TensorFlow | scikit-learn",
+    "Frameworks": "React library | Next.js | Node.js | Express.js | TailwindCSS | Flutter | TensorFlow | scikit-learn",
     "Dev Tools": "VS Code | Docker | Git | GitHub | Postman | MongoDB | Firebase",
     "UI Vibes": "Figma | Adobe XD | Photoshop | After Effects | Illustrator",
     "Education": "BSc (Hons) in Software Engineering @ SLTC Research University",
