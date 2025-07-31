@@ -1,8 +1,8 @@
-```
+```json
 {
   "KavishanNipun": {
     "Languages": "JavaScript | Python | C | Java | Dart",
-    "Frameworks": "React library | Next.js | Node.js | Express.js | TailwindCSS | Flutter | TensorFlow | scikit-learn",
+    "Frameworks": "Next.js | Node.js | Express.js | TailwindCSS | Flutter | TensorFlow | scikit-learn",
     "Dev Tools": "VS Code | Docker | Git | GitHub | Postman | MongoDB | MySQL | Firebase",
     "UI Vibes": "Figma | Adobe XD | Photoshop | After Effects | Illustrator",
     "Education": "BSc (Hons) in Software Engineering @ SLTC Research University",
@@ -10,8 +10,8 @@
     "Contact": "kavishannipun2001@gmail.com"
   }
 }
-
 ```
+
 > Socials         :: [LinkedIn](https://www.linkedin.com/in/kavishan-nipun-876930222/) | [Huggingface](https://huggingface.co/KNipun) | [Facebook](https://www.facebook.com/nipunmaxx.kavishan.3) | [Instagram](https://www.instagram.com/kavishan.nipun/)
 
 ## GitHub Stats
